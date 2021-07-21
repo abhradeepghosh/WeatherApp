@@ -28,13 +28,13 @@
     <string name="settings_title_app_version">App version</string>
     <string name="settings_title_build_number">Build Number</string>
     <string name="settings_title_author">Author</string>
-    <string name="settings_summary_author" translatable="false">enxy0</string>
+    <string name="settings_summary_author" translatable="false">Abhradeep</string>
     <string name="settings_title_github" translatable="false">Github</string>
-    <string name="settings_summary_github" translatable="false">https://github.com/enxy0/Weather</string>
+    <string name="settings_summary_github" translatable="false">https://github.com/abhradeepghosh/WeatherApp</string>
     <string name="settings_name">Settings</string>
     <string name="settings_header_units">Units</string>
     <string name="settings_header_appearance">Appearance</string>
-    <string name="settings_vk_link" translatable="false">https://vk.com/enxyo</string>
+    <string name="settings_vk_link" translatable="false">https://www.linkedin.com/in/abhradeep-ghosh-7381b367</string>
     <string name="settings_title_wind">Wind</string>
     <string name="settings_title_pressure">Pressure</string>
     <string name="failure_connection_error">Couldn\'t load data. Please, check your internet connection!</string>
