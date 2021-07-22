@@ -47,7 +47,7 @@
                         android:layout_weight="1"
                         android:ellipsize="end"
                         android:maxLines="1"
-                        tools:text="Moscow, RU" />
+                        tools:text="Bangalore, In" />
 
                     <ToggleButton
                         android:id="@+id/favouriteToggle"

@@ -33,7 +33,7 @@
                 style="@style/CustomStyle.Text.Primary"
                 android:ellipsize="end"
                 android:maxLines="1"
-                tools:text="Saint-Petersburg, Russia" />
+                tools:text="Bangalore, India" />
 
             <TextView
                 android:id="@+id/description"

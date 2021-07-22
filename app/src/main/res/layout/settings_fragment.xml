@@ -30,13 +30,6 @@
                 app:siTitle="@string/theme_title"
                 app:siValue="Light" />
 
-            <com.example.testweather.views.SettingsItem
-                android:id="@+id/iconsPack"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                app:siTitle="@string/settings_title_icons_pack"
-                app:siValue="@string/settings_summary_icons_pack" />
-
             <View style="@style/CustomStyle.Divider.Thin.Horizontal" />
 
             <TextView

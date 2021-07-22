@@ -5,4 +5,4 @@
     style="@style/CustomStyle.Text.Primary.Clickable"
     android:layout_width="match_parent"
     android:padding="@dimen/list_padding"
-    tools:text="Saint-Petersburg, Russia, 190000" />
+    tools:text="Bangalore, India" />
