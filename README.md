@@ -39,7 +39,3 @@ api_key_open_cage = "OPEN_CAGE_API_KEY"
 ```
 
 3.  Rebuild project
-
-Note -- Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/) and modified by me :)
-
-
