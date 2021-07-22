@@ -15,12 +15,8 @@ Status: In development (1.0.1-release)
 -   [ ] Display weather forecast based on user location -- Not yet done.
 
 ## Screenshots
-<img src="https://user-images.githubusercontent.com/1692038/126593268-df79a50a-c2cb-4621-a34b-26aaad831bdb.jpeg" width=23% />
-<img src="https://user-images.githubusercontent.com/1692038/126593282-9267b61f-511c-406f-8a84-c21c2549558c.jpeg" width=23% />
-<img src="https://user-images.githubusercontent.com/1692038/126593291-2e29956f-4983-4a06-95fc-f93e08f58741.jpeg" width=23% />
-<img src="https://user-images.githubusercontent.com/1692038/126593297-f2f5ceb4-e6fb-4c33-ac67-90e80b74cced.jpeg" width=23% />
-<img src="https://user-images.githubusercontent.com/1692038/126593322-b003edb6-3c8c-42c8-91e6-0618cfbfc51b.jpeg" width=23% />
-<img src="https://user-images.githubusercontent.com/1692038/126593334-a9ca9429-d40a-470d-b6ff-7dda059ce29c.jpeg" width=23% />
+<img src="https://user-images.githubusercontent.com/1692038/126593268-df79a50a-c2cb-4621-a34b-26aaad831bdb.jpeg" width=23% />  <img src="https://user-images.githubusercontent.com/1692038/126593282-9267b61f-511c-406f-8a84-c21c2549558c.jpeg" width=23% />  <img src="https://user-images.githubusercontent.com/1692038/126593291-2e29956f-4983-4a06-95fc-f93e08f58741.jpeg" width=23% />
+<img src="https://user-images.githubusercontent.com/1692038/126593297-f2f5ceb4-e6fb-4c33-ac67-90e80b74cced.jpeg" width=23% /> <img src="https://user-images.githubusercontent.com/1692038/126593322-b003edb6-3c8c-42c8-91e6-0618cfbfc51b.jpeg" width=23% /> <img src="https://user-images.githubusercontent.com/1692038/126593334-a9ca9429-d40a-470d-b6ff-7dda059ce29c.jpeg" width=23% />
 
 ## Libraries & Dependencies
 -   [Retrofit](https://github.com/square/retrofit) - Type-safe HTTP client for Android and Java by Square, Inc.
