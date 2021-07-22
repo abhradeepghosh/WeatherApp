@@ -15,6 +15,7 @@ Status: In development (1.0.1-release)
 -   [ ] Display weather forecast based on user location -- Not yet done.
 
 ## Screenshots
+<img  src="https://user-images.githubusercontent.com/1692038/126593268-df79a50a-c2cb-4621-a34b-26aaad831bdb.jpeg"  width=23% />
 ![Search_Empty_Dark](https://user-images.githubusercontent.com/1692038/126593268-df79a50a-c2cb-4621-a34b-26aaad831bdb.jpeg)
 ![Search_Populated_Dark](https://user-images.githubusercontent.com/1692038/126593282-9267b61f-511c-406f-8a84-c21c2549558c.jpeg)
 ![Dashboard_Dark](https://user-images.githubusercontent.com/1692038/126593291-2e29956f-4983-4a06-95fc-f93e08f58741.jpeg)
